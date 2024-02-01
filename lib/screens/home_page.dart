@@ -33,7 +33,38 @@ class _HomePageState extends State<HomePage> {
                 cardTile(
                   name: 'Instagram',
                   imagePath: "assets/insta.svg",
-                  link: 'https://www.flutter.com/',
+                  link: 'https://www.instagram.com/dizzzpy__',
+                ),
+                cardTile(
+                  name: 'Facebook',
+                  imagePath: "assets/fb.svg",
+                  link: 'https://www.facebook.com/ItsMe.AnuWa',
+                ),
+                cardTile(
+                  name: 'Twitter',
+                  imagePath: "assets/x.svg",
+                  link: 'https://www.twitter.com/@dizzzpy',
+                ),
+                cardTile(
+                  name: 'Github',
+                  imagePath: "assets/github.svg",
+                  link: 'https://www.github.com/dizzpy',
+                ),
+                cardTile(
+                  name: 'Linkedin',
+                  imagePath: "assets/linkedin.svg",
+                  link:
+                      'https://www.linkedin.com/in/anuja-rathnayake-0305311ba/',
+                ),
+                cardTile(
+                  name: 'Email',
+                  imagePath: "assets/mail.svg",
+                  link: 'mailto:feedback.anuwa@gmail.com',
+                ),
+                cardTile(
+                  name: 'Telegram',
+                  imagePath: "assets/tele.svg",
+                  link: 'https://t.me/MrAnuwa',
                 ),
               ],
             ),
