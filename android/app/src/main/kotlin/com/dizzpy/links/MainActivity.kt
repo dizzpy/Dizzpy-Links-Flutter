@@ -1,4 +1,4 @@
-package com.example.dizzpy
+package com.dizzpy.links
 
 import io.flutter.embedding.android.FlutterActivity
 
